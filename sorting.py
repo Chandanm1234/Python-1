@@ -1,5 +1,5 @@
 import random as rd
-
+#this is chandan
 def distribution_counting(array):
     A = array
     n = len(A)
